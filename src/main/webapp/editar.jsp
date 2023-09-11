@@ -12,7 +12,7 @@
     </head>
     <body>
     <center>
-        <h1>Registro de persona</h1>
+        <h1>Registro de Tareas</h1>
 
         <form action="MainServlet" method="post">
             <table>
